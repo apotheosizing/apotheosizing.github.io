@@ -1,3 +1,4 @@
-# Landing Page
-
-Check out the index to the left to start reading!
+---
+title: Landing Page
+---
+Select a recap from the index to the left to start reading!
