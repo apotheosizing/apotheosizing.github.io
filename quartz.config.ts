@@ -3,7 +3,7 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Whiif City D&D Recaps",
+    pageTitle: "Whiff City D&D Recaps",
     enableSPA: true,
     enablePopovers: false,
     analytics: null,
