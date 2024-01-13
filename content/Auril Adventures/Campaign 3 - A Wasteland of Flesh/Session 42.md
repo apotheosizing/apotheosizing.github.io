@@ -1,0 +1,39 @@
+---
+date: 2023-10-22
+tags:
+  - recap
+  - recap/tdd
+  - recap/tdd/tdd3
+---
+# Session 42
+
+A day and a half elapsed in this manner until the party heard the telltale rumble of the mobile home's arrival. Maeveiane all but barreled directly into her mother's arms and the two shared a tearful reunion that the party awkwardly interrupted to confirm with Phedra what she had uncovered about the person who had captured Therris. She was confident that it had been an archmage of one of the wizarding guilds but she had not confirmed the identity of the culprit.
+
+With this information in mind, Eve and Scrimblo devised a plan. Under the pretence of being a visiting wizard from Elbarai and her familiar seeking to re-establish contact with the city's guilds they would have a reasonable excuse to speak directly to the higher-ranking members of the guilds. From there, it was a mere matter of getting their hands on the vessel in which Therris was imprisoned.
+
+A stroll through the district that held Aetra's wizard guilds revealed that they were divided along the lines of the conventional schools of magic so the Conjuration guild seemed the most obvious starting point. Initially the duo were concerned that they would not be admitted without a prior appointment but the mention of Elbarai was enough to convince the secretary to contact the archmage. Archmagus Thelonius was eager for news from the city - particularly about the status of the Heart of Mana which the spellcasters of Aetra suddenly saw the opportunity to gain mastery over with Elbarai's faculty too shattered to stop them. Hence, he was all too willing to answer Eve's questions.
+
+She indicated that she had heard tell that one of the archmagi had the use of a genie's power. A single wish would not be enough to address Elbarai's rebuilding, of course, but they were provisionally interested in exploring that avenue. Thelonius explained that it was in fact Archmagus Valanthe who had imprisoned the dao but he, being a master of conjuration, could summon one shortly. Eve thanked him and let him head off to begin his summoning under the assumption that any genie would do.
+
+As soon as he was out of sight, Scrimblo and Eve departed for the Divination tower. Valanthe insisted good-humouredly that she had been expecting their arrival and welcomed the visiting delegation into her office. Eve was able to convincingly spin a story about the surviving faculty (of which she was a recently promoted member) considering the various merits and pitfalls of either reconstructing Elbarai or moving the Heart of Mana to a more advantageous location. Like her colleague, the mention of the Heart of Mana and the implication that an aiding contingent from Aetra would be allowed near enough to it the artefact they had coveted for years to enact their own plans was enough for Valanthe to entertain almost any visitor's demands.
+
+While she and Eve discussed the finer points of a provisional agreement, Scrimblo did his best to search the area but his disguise as a crab did not lend itself to this endeavour. However, Eve was able to broach the topic as a potential line item for the contract between Aetra and Elbarai: the use of just one of the wishes. Valanthe, who indicated the iron flask on her hip, said that she would be more than willing to let Elbarai use the dao for proper monetary compensation. The two agreed to reconvene in a few hours, allowing time for Eve to communicate with her fellow archmagi, though with the implication to Valanthe that it was a done deal.
+
+Now that the party knew how Therris was being imprisoned, the question of how they could part Valanthe and the flask was foremost. Neither Eve nor Scrimblo were particularly accomplished thieves but Aetra was a city where any service was available for sale.
+
+On their way to the seedier part of town, the party came across a peculiar sight. A person with their head dipped entirely in wax so that they could bear a black flame was stalking the streets announcing that the Candlemakers' Guild had received writ calling for the arrest of an unlawful assassination and were actively hunting the perpetrator. The party concluded that this was fine: they would simply need to flee the city the moment they had the flask in their possession and never come back.
+
+Both fencing the deed to Gildan's tavern and purchasing the services of a thief were surprisingly easy in Aetra. All one needed to do was linger in the dark and shadowy seats of a corner booth and possess sufficient money to cover the rates and fees associated with the oxymoronic regulated illegal work of the "Thieves' Guild". The thief the party hired did not so much as bat an eye at being asked to steal from an archmage and found it routine enough that they had the location of a lead-lined dropbox where they could retrieve their goods already in mind.
+
+Having some time to kill, the party returned to the graveyard to gossip with Dierdre, who pointedly began with the stir caused by the recent murder of Alto and the sighting of a dragon over the city. It was apparent that though she was only a figurehead ruler, the dragon herself was not without her resources and the mausoleum was a less safe location for respite than the party had supposed. Still, she did nothing more than talk until the party begged her leave to return to the Conjuration Guild.
+
+The signing of the contract - and the theft it was a cover for - went off without a hitch until Valanthe noticed the absence of the flask. She left Eve to finish signing for Elbarai while she began to assemble the components needed to cast scrying so that she could uncover the identity of the thief. The party took that opportunity to escape in the form of wind and go to the dropoff point. The jig was up so the moment the party had the flask in hand they uncorked it, freeing Therris and, with a brief explanation that leaned on them knowing Phedra and Maeaveiane's names alone, convinced her of their good intent folding her into the wind walk spell to ensure their escape.
+
+On their arrival at the werebear village, Eve hastily asked Therris to use a wish to cloak the village from the effects of scrying. She had been intending to offer a wish to the party on principle of them freeing her and so was more than happy to oblige with a request that would protect the people who aided her. That done, things calmed enough for the party to provide a proper explanation to Therris before taking her to Phedra and Maeveiane.
+
+In light of such a happy result, Oto called for a feast and both the family and the party consented to stay another evening. During the festivities, Eve took the opportunity to talk to Scrimblo for the first time since the incident at the Holte estate, seeking to bury the hatchet. Scrimblo remained wary of her - and readily admitted it - but he knew that the party was the disc's best chance at excising the Flesh so he was willing to remain on cooperative terms with her for the time being. Eve accepted his caveats and the two were reconciled, though things remained a little uncomfortable between them. It was likely for the best that they spent the evening socializing with the werebears.
+
+So late in the night that it was close to morning, as the werebears were settling down to sleep and Phedra, Therris, and Maeveiane were giving their final thanks and farewells, an elemental courier appeared before the party. It bore a letter of intent and three wooden tokens from the forces arrayed against them: Valanthe, Gildan, and the Black Candle, all of whom had traced their troubles to a singular source. These more petty concerns would have to wait, however, as this day the party planned to return to the mountain to contend once more with Jebediah Mann.
+
+Next
+[[Session 43 & 44]]

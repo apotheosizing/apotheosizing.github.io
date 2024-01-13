@@ -1,0 +1,38 @@
+---
+date: 2023-05-24
+tags:
+  - recap
+  - recap/ne
+---
+# Session 56
+
+With a long night ahead, Mircea headed out for a walk through the dilapidated, frozen port of Stygia. Under the rime-stuffed eaves another person fell into step beside him: the Morninglord, in the guise of Ezmerelda. Mircea preferred a different form and It obliged, first trying on Constantin before settling on Strahd. Still, Mircea confessed that the shape of his enemy was no longer appropriate for the Morninglord. It was eager to hear the details of this change of heart.
+
+Mircea was far from forgiving the Morninglord for Its manipulations but he admitted that he now realized that It was not the root of his woes. The Morninglord was pleased to hear that he had finally realized that, as there was little chance he would have accepted it from It. He asked why a god would seek to change the current way of things and the Morninglord simply said that change was the true principle of Its manifest anchor of Law.
+
+Mircea asked if It knew anything of the beings that created the gods, which he had begun thinking of as the Progenitors. The Morninglord did not, however It promised to aid him in his task of defying them as much as It could. None of those It had chosen before him had gotten even half so far as Mircea. Undeterred by this revelation, Mircea remained convinced that this was what he had to do, no matter the outcome.
+
+The Morninglord not-so-subtly implied that It would be able to aid him better if he returned to Its service. Mircea could not do so, he was done with serving gods. The Morninglord asked him then if he intended to be served by them instead, then, once the gods were remade. He had no such intention: all he wanted to do once all this was over was return to his family. The Morninglord was clearly disappointed by this but accepted his decision, as It no longer had any claim over him. The god disappeared, leaving Mircea to circle back to his companions alone.
+
+Meanwhile, in Glasya's palace in Proscenium, Apollo made his way to toward the throne room. En route he passed by a side chamber wherein a small meeting of the archdux's other agents had been called. Calanthir, Jezebel, Apollodorus, and Artemidorus were gathered over the most recent surveys of Avernus, discussing the best point of ingress to the plane. Apollo, being the only one who had traveled there of late (excepting Calanthir) offered his perspective. The destroyed Unholy Triumph would likely have limited forces stationed there given that the bulk of seirimic forces were needed to harry Zariel. He also suspected that Quintestra would not be a high priority target due to the fact that the attack on it he had witnessed during his first visit had been noted as rare.
+
+He pulled Calanthir aside to speak with them about the chalices, showing them the Sixth Chalice and asking if they were familiar with its bearer. Calanthir said no; no guardian knew any other because one of their duties was to ensure that the chalices were never gathered together. When Apollo implied that he and his allies intended to do exactly that, Calanthir reacted strongly and said that there was no scenario in which needing to do that was reasonable. They told him that the very reason they had removed their memories in the Lethe was to protect their chalice from someone who was hunting it. In deference to their concerns, Apollo said he would not press the matter further but said he would be sharing what he'd learned with Mircea.
+
+Having no other business with the group, he headed to the audience chamber. Glasya was awaiting him there and patiently listened to his explanation of his situation, though Apollo suspected he was not telling her anything new. Glasya agreed that this piece of evidence would likely sway the courts in his favour, since it would make previous precedent established for slain devils reclaiming their property applicable. They agreed to examine his soul and bid him come closer. The process was somewhat painful and more lengthy than Apollo had suspected it would be but in the end Glasya confirmed that his soul was made of the raw material of Maia Abbas'. Although Glasya themself could not appear in court, they offered Apollodorus as their witness when the time came. Apollo thanked her and departed.
+
+Without access to the Fivefold Queen Itself or the vast majority of Its abishai to question about Agares themself, Apollo declared his investigation over. The marut returned him the Stygia, where he conveyed what he had learned of his argument to the party - and of the chalices to Mircea - before heading to sleep.
+
+Just as the members of the party who required sleep were waking, the good ship *Satisfaction* was spotted on the horizon. In light of how long it had taken the party to cross Stygia, this prompt arrival was surprising, but Lohengrin claimed it was because they did not wish to be here. In a plane founded on the principle of desire, such reasoning made a certain sense. Salome, whose vessel had been voluntold due to its size and thus swifter speed, seemed nervous as she greeted the party. After stowing Lohengrin in the crew quarters belowdecks, Apollo pulled Salome aside by means of a flight spell to ask her what was on her mind.
+
+Frankly, the time since Lohengrin's disappearance had been hard on her. Iz was still furious over the matter and Salome had borne the brunt of it in the absence of the party to properly blame. In addition, she held some reservations about awakening Levistus. It was a divine edict that sealed him in his prison, after all, and the Liege of the Nine was not a merciful god.
+
+During this conversation the rest of the party noticed that Iz had slipped down to the lower levels. Marica, with an arcane eye and in mouse shape herself in case she needed to intervene, tailed Iz to Lohengrin's makeshift cell to listen to their conversation. Iz asked Lohengrin if it had been worth it. Lohengrin gave no answer. Iz, disgusted and angry, said that they were lucky she still cared for their wellbeing and left a dagger for their use behind as she departed. Once the coast was clear, Marica confiscated the dagger, suspecting the motive behind its presence.
+
+Propelled by push and pull of the devils' dread and the party's desire, *Satisfaction* arrived at the tomb of Levistus after only five days travel. Marica and Apollo had some time to catch-up during this time and Marica shared the fruit of her recent experiments with him. Apollo was concerned about the possible unforeseen effects of continuing further but Marica promised she would do extensive testing before trying anything else on herself.
+
+The Chapel of Half-Light was marked by a large floating torus of ice above the body of Levistus themself. The archdux was so massive that only their eye was visible through the surface of the plane. Reluctantly, Lohengrin began the ritual, with aid lent by Apollo, Marica, and Nox. Finally, they shattered Titivilus' ambition trapped within the earring as the final sacrifice and smashed the ice that had covered Stygia for untold eons.
+
+Apollo and Marica were able to get everyone clear of the rapidly growing ocean and onto *Satisfaction* in time to see the emergence of the archdux. He expressed his gratitude to the party and pledged Stygia's support to Malbolge in the coming conflict. Then, they turned their attention to Lohengrin. Marica made an attempt to ask for clemency on their behalf but the warlock's disloyalty would not be so easily forgotten...
+
+Next
+[[Session 57 - Axis Mundi]]

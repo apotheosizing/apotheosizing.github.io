@@ -1,0 +1,43 @@
+---
+date: 2020-01-29
+tags:
+  - recap
+  - recap/iosg
+---
+# Session 36
+
+With a mere wave of the Wand of Orcus, a necromantic semblance of life returned to Tadhg’s eyes as they rose as a ghoul. Shambling to their feet, they joined their fellow undead in attacking Kai, who posed the greatest threat to Orcus of the living members of the party. To compound matters, one of the liches was able to bring Faustus under the effects of a charm. The situation looked dire, for they would incur a great cost even if the party succeeded in destroying Orcus.
+
+Though the party was down, they were far from out. Dell reloaded his pistol with a round of Norona’s lich-slaying bullets and turned his attention to the liches, who still possessed much of their most powerful magic, while Kai refused to relent in his onslaught against Orcus. After breaking free of the enchantment, Faustus called upon the power of his wish to restore Tadhg to life. They, in turn, were able to use their healing magic to undo all the damage Orcus and his servants had managed to inflict.
+
+With one final effort, Kai was able to cut down Orcus with the power of his holy blade despite the protections offered by the wand, ending the demon lord’s dominion over Thanatos once and for all. His destruction broke his influence over Brin, who was returned to the battlefield to contend with the final lich. As Sathael could not permanently destroy the party at the height of her power, the lone lich could not hope to defeat the five of them without Orcus in command and he was soon defeated like the rest of his brethren.
+
+Where the Lord of Undeath had once stood, his wand lay inert. It had no master to flee to when the party made to retrieve it, though the matter of its destruction remained. They agreed that once they had returned to the Material Plane and recovered from the battle, Tadhg would take it to the Positive Energy Plane to break its power forevermore. However, one final obstacle to the party’s victory stepped out of the shadows – Valeria.
+
+From the outset, the Wand of Orcus had been the prize she sought, the party being her means to that end. Now that its creator had been vanquished, she need merely defeat the weakened adventurers and take her place on the throne of Thanatos. At her side was Willem, who had been restored to life by his god and nursed a grudge against the party since their unceremonious encounter at Sathael’s tower, and a simulacrum of herself.
+
+Tadhg closed in on Willem while the rest of the party dealt with Valeria and her doppelganger. Dell’s truesight proved instrumental in cutting through Valeria’s illusions to pinpoint her true location. She was a formidable spellcaster to be certain but without the ability to misdirect her opponents each of their strikes landed true, eventually felling her. Willem was able to revive her once before Tadhg used their spiritual weapon to knock him unconscious. In one final bid to subvert them, Valeria banished nearly all of the party to the Material Plane.
+
+By a strange coincidence, both Kai and Tadhg appeared in Escher and Randford’s sitting room. They were afforded six seconds of tea and conversation before they were pulled back to Thanatos by Valeria’s concentration being broken as she was returned to the grave. With the party reconstituted, Tadhg used the diamond the Dagda had bestowed upon them to call Astralla’s soul back to the land of the living. She was disoriented from the end of her millennia of imprisonment but was willing to go with Tadhg to destroy the wand.
+
+Using Dell’s helm, the party returned to the portal through which they had entered Thanatos. From Sathael’s tower, they teleported to Escher and Randford’s home in Olamist to have a more leisurely conversation than Kai and Tadhg’s brief banishment had allowed. They offered the party their hospitality for the night, which they gratefully accepted.
+
+That night, in Tadhg’s dreams, Uvean graced them with his presence once more. Helios had informed him of what had transpired between the party and Ravam. Though he could not bring himself to destroy the creation he had loved since time immemorial, he promised Tadhg that when they next struck Ravam down, he would not rise again.
+
+As dawn broke, Tadhg called upon the Dagda to protect themself and Astralla from the rending light of the Positive Energy Plane. With the Wand of Orcus in Astralla’s possession, the two were transported to a plane of nothing but weightless light. Its all-encompassing presence pervaded all who dwelt there, seeping into their very beings. Cracks begun to form across the wand and after a minute of continual exposure to the plane, the Wand of Orcus shattered into nothingness.
+
+To celebrate their achievements, the party sought out the restaurant Solafei had taken them to during their first visit to Olamist so many months ago. Partway through the meal, an aide arrived with a message for Kai, informing him that he and his companions were cordially invited to Raloth and Ramael’s wedding. Without hesitation the party expressed their intentions to attend, providing them with a scant handful of days to purchase outfits for the event and to track down Ravam.
+
+Straightforward as always, Tadhg opted to simply send Ravam a message challenging him outright. The solar appeared almost at once, the chill of an encroaching mist heralding his appearance. He warned the party that he had not been idle in the months since their encounter at sea and that he would destroy them here and now. His posturing was given a sharp counterpoint by Kai igniting his flametongue and, pouring all his strength into one flurry of blows, defeating Ravam in seconds. As Uvean had decreed, the solar’s anchor to his home plane was shattered, leaving him to fade away before their eyes.
+
+On the day of the wedding, the party arrived in Fenlaur in style. Many familiar faces stood among the guests, all of them gathered to celebrate Raloth and Ramael’s marriage. The ceremony was short but beautiful, even the most cynical in attendance being touched by the sincerity of the newlyweds’ vows to each other.
+
+During the reception, the party had the chance to catch up with many of their acquaintances. After being intercepted by Oswald, Tadhg helped him recruit Ursava to the trio that Oswald had affectionately dubbed the “Gamersquad”, bringing their number up to the traditional four. Meanwhile Kai was given the opportunity to wield Glavaluna by Leilani, much to his delight, Rosai and Chy’Kira briefed Dell and Faustus on the success of their efforts to drive out the lesser undead that had remained after Sathael’s death with the help of Dell’s firearms.
+
+Being reminded of Norona’s indirect assistance in the depths of the Abyss, Dell regaled Norona with the usefulness of the bullets of lich-slaying she had crafted and the two devised plans to destroy the phylacteries of the liches Orcus had summoned, with eventual intentions to use Thanatos as a testing ground for further anti-undead measures, with the side-effect of likely emptying Thanatos of its undead through sheer prolific iteration on the technology.
+
+Tadhg broke off from the Gamersquad to speak with the jeweller Emerald, striking a deal with her to purchase more diamonds that they could use to offer resurrection services to those they would meet in their further travels. They also used a portion of their veritable dragon’s hoard of diamonds to return Thrax to life and the two spent the rest of the evening catching up. They hoped to travel with him for a portion of their journey home, which he was happy to agree to.
+
+Faustus approached Escher with an offer to visit him in Cania to discuss the details of a contract for royalties from any further “biographical” works based on his exploits, though it would have to wait until he and Mephistopheles returned from their impending extraplanar vacation. In light of his plans for that absence, he retrieved a diamond from Tadhg with the vague statement that it would be put to good use.
+
+As the night wound to a close, the party convened for one last time. Tadhg insisted that they all keep in touch and gave Kai the match for their sending stone to ensure that he would be able to reach them while staying on Elihyel to govern Olamist. Having said their goodbyes for the time being, the party went their separate ways with the promise of peace for the rest of Elihyel’s days left in the wake of their collective deeds.

@@ -1,0 +1,34 @@
+---
+date: 2023-10-25
+tags:
+  - recap
+  - recap/ne
+---
+# Session 61 & 62
+
+A guarantee of the aid of the Fivefold Queen was a great boon but the party knew that the battle that lay ahead would be one of the most monumental conflicts they would see in their lifetimes. Sleep was in short supply that night. The strategy Lilith had outlined required the presence of at least one of the adventurers in a small strike force headed by her personally and it was Marica who volunteered for the position. The remainder of the party were given mounts in the form of dragon wyrmlings and told to make directly for the Mountain and Şenkă; Lilith's forces would keep the seirim at bay.
+
+On the unnaturally flat expanse of Avernus, the massive shape of the Mountain was visible almost from takeoff, growing like a tumour on the surface of the plane. When they were close enough to make their final preparations, the party did so, ensuring spells like mage armour and intellect fortress were in place before any of the seirim guarding the Mountain spied their approach.
+
+While the main group made a frontal assault through these rear guard troops, Mircea make a direct move on the Mountain with his now signature aerial attack, plummeting from his marchosias to strike the sibriex with the infernal implement he wielded. Unfortunately, this action isolated him from his allies and make him easy prey for Şenkă, who was surprised but undaunted by the presence of a man whom he at this point in time assumed dead and consigned to his heavenly rest. The Mountain made this dangerous situation worse by inflicting him with a feeblemind spell, removing the possibility of making a tactical retreat or the use of any of Mircea's magic.
+
+At the foot of the Mountain the rest of the party were facing the very overwhelming numbers that made their mission in the past vital. Crocodilian creatures that regurgitated smaller seirim from a cauldron of flesh and ichor inside its body, the typical compliment of barlgura and vrocks to harry the adventurers and their mounts, and the corrupted humanoids who had come into contact with seirimic infection brought to the Nine Hells for their intelligence and martial training all stood in their path. With their primary healer elsewhere and Mircea incapable of spellcasting, the party's raw destructive power was matched directly against the seirims', to end only when one side was wiped out.
+
+Under these constraints the party performed admirably, pushing forward to the Mountain itself with only minor casualties and one death: Polly, who had been knocked from her dragon in retaliation for the destruction of the crokek'toeck that had produced the bulk of their adversaries. Calanthir and Nox were also struck unconscious, leaving Artemy, Apollo, Jezebel, and Mircea as the only combatants still standing.
+
+It was at this moment - which in another time would have been the first, fatal victory in the last battles of the conflict between devils and seirim - that Lilith and Marica were able to extricate themselves from the marginal conflict and join the fray. A small contingent of priests and paladins split their attention between the wounded adventurers, bringing them back into fighting shape, and Marica restored Mircea's senses just in time for the party to rally and move in on the Mountain. It was Apollo who slew the monstrosity, wielding the blade the Fivefold Queen had given him but which he had made his own.
+
+His advantages lost and his army crumbling around him, Şenkă was unable to up against more than a few strikes from Mircea. He did not smite the seirim into dust only because he knew that Şenkă remained active in the present and thus needed to be preserved in the past. Mircea sought to interrogate him but he gave up little of import before Marica sent him back to the Abyss.
+
+Polly' loss was unfortunate but not insurmountable with Marica and Apollo both capable of restoring her to life. As such, the party and the forces of Quintestra returned victorious to their fortress to celebrate their defence of the very plane itself. The party, however, had no time to rest or to feast. The potential threat of Harut, Şenkă's collaborator, remained and their audience with Zariel loomed in the proximal future. They'd made tentative plans to intercept the retreating forces of Zariel before they reached Unholy Triumph on the morrow when Apollo consulted his friends for advice on his bargain with the Fivefold Queen. He had promised to give honest consideration to freeing It from Its prison and he wanted to fulfil that promise.
+
+Many tales were told of how the Fivefold Queen had come to be imprisoned in the Nine Hells, ranging widely from being the consequence of the death curse of a god It had destroyed to the first step in a millennia-spanning machination of Its own. They raised, too, the question of what mechanism could bind a deity if It did not wish to be bound. They went so far as to ask Virgil to weigh in, though his answer amounted essentially to a shrug.
+
+Apollo decided to sleep on it, not only to ensure he had come to a conclusion he would not regret, but to allow him to recover sufficiently to raise Polly from the dead. He woke early to visit her rooms before heading to the prison of the Fivefold Queen, finding her twin, who had clearly not slept that night, waiting at her bedside. With a single undeniable word of power, Apollo called her soul back to her inert corpse... but she did not wake. Artemy's worst fear was here confirmed. A warlock's soul was often not at liberty to return of its own accord from the afterlife, being the payment rendered to their patron. To make matters worse, the Glasya of this time had a living Apollodorus at their side and would thus be unlikely to conclude that this was anything other than an attempt to steal their warlock out from under their nose.
+
+Having no further way to intervene, Apollo went to deliver his verdict to the Fivefold Queen with his companions at his side. He carefully told It that after a great deal of consideration, he held his decision to keep It in Its chains in Quintestra. The Fivefold Queen took his words with surprising nonchalance, simply accepting his choice and bidding him fair travels. Even more unexpected was the fact that some force - the power of Apollo's will or the Fivefold Queen's - infused Dragon's Breath with greater power, affording him the ability to transform into a dragon.
+
+The party had a great distance to travel to reach Zariel's forces so Apollo took advantage of this newfound power immediately. Jezebel, Calanthir, and Artemy opted to remain behind with the fallen member of their group, leaving the adventurers as a party of four once more. As they again took to the empty skies of Avernus on dragonic wing, the party wondered whether Apollo had done the right thing in the matter of the Fivefold Queen. In the end, none of them could be certain.
+
+Next
+[[Session 63 - Zugzwang]]

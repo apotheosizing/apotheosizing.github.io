@@ -1,0 +1,17 @@
+---
+date: 2018-05-22
+tags:
+  - recap
+  - recap/tdd
+  - recap/tdd/tdd1
+---
+# Session 4
+
+On this third excursion into the manor, the party was not able to find an entrance to the place as easily as before. The movement of the door was no surprise after their second visit but being unable to find one at all on the ground floor was a new predicament. Smashing one of the windows allowed the pair to move inside, in a sense. The air was thick with black fog that made it impossible to see, even by magical light, and walking forward only served to eject them from the house. A second look revealed that the door was up on the second storey, which the two were able to reach via some careful climbing up the nearby vines. Inside the house was a rooftop from which protruded a tower with several external levels. Exploring the initial space revealed a woman being menaced by two shadow mastiffs, whom the party tried at length to negotiate with but were eventually forced to fight. Once the dogs were knocked out, they were able to speak with the woman, who introduced herself as Alex and spoke in such a way that it was clear that she thought the house was still full of inhabitants. In fact, on closer inspection, she was revealed to be a ghost.
+
+Leaving her to her painting, Eve and Vryana made their way first onto a connecting balcony and then to the second level of the tower - Vyrana by climbing and pitons, Eve by rope. Here they found a disused greenhouse, haunted by the spirit of the gardener, Imbert, whose remains they had found during their previous descent into the house. Among the decayed plant-life was a vine blight and its subordinates, who attacked the two adventurers. Intriguingly, the vine blight spoke with a strangely familiar voice, accusing them of seeking to undo all the work that he had accomplished. When the blights were dispatched, they ascended to the highest level of the tower, which was occupied by two skeletons and a wight.
+
+Despite several close encounters with the railing of the arena, the pair were able to defeat these enemies and head down through a wooden hatch in the middle of the floor. Within was a room filled with dirty laundry, several closets with cleaning supplies, and one door leading to a boiler room, as well as a laundry chute, which Vyrana and Eve used as a means of exiting the house. Unlike a normal chute, however, this ride was more like a strange rollercoaster, ending out in the bay that had been seen earlier on the manor’s grounds. After Vyrana collected some shells as souvenirs for her family, the two returned to the front of the house. At his stand, the caretaker informed them that a merchant had come into town and set up shop. Making a quick visit, the merchant was found to be a procurer of magical items who had come to the town in the hopes of buying those magic items that the inheritors had no use for. Before returning to the inn for the night, they checked in on Nova and the blacksmith, who were doing better since last they spoke, and contributed a little more to the fund they had accumulated to allow the blacksmith to purchase better materials. That night, the dreams that had plagued them recurred, the familiar voice that had come too from the vine blight returning to warn them against defying its machinations.
+
+Next
+[Session 05](Recaps/Auril%20Adventures/Campaign%201%20-%20The%20Dragonest%20Dungeon/Session%2005.md)

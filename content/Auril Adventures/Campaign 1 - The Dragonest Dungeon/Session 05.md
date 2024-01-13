@@ -1,0 +1,19 @@
+---
+date: 2018-05-29
+tags:
+  - recap
+  - recap/tdd
+  - recap/tdd/tdd1
+---
+# Session 5
+
+The following morning, the caretaker arrived with a new inheritor - a half-orc ranger named Korvias. After some short introductions, the newly constituted party of three approached the manor for another delve into its depths. Thankfully, this time there was a door within sight and the party entered a room with three doors. Through the door to the right lay a room set up with an elaborate system of tripwires guarding a large topaz. Using her agility as a monk, Vyrana was able to successfully retrieve the jewel with only minor injuries. In the room across the way was a large aquarium with no discernible boundaries. The glass facing the door was covered in notes which detailed a plan to hatch and control a kraken and the waters held a large egg. Putting two and two together, the party concluded that they were seeing something that was at the bottom of the estate’s lake and that they should destroy the egg once they had reached the end of this wing of the house.
+
+The remaining room also presented the group with three doors, though this one notably had a statue at its centre. Proceeding through the door to the east revealed a remarkably similar room, only noticeably different from the previous one due to the different statue at its heart. After some trial-and-error that revealed the area was a 4-by-4 square of such rooms and a battle with four shadow beings who had led them around in a circle of opening doors, the party begun to follow the pointing of the some of the statues, eventually reaching a room that had three swords on each of its walls instead of the usual two. When they attempted to leave, these animate swords attacked, but the party was able to fend them off. The room to which the statues pointed had a hand mirror on the floor and a sort of weight-activated elevator where a statue had been in the other rooms that brought the party down to a lower floor.
+
+The first room on this floor appeared to be a ritual chamber, with a dagger and a bowl at its centre. When an offering of blood was made to it by Eve, three maw demons appeared and a battle ensued. Emerging victorious, the party went on into the adjoining room, in which they found a skeleton strung up by its ankles above a pool of - of all things - mayonnaise, as well as a bag of holding and the alchemical jar that had produced the mayonnaise. In the final room on this floor was a section of rainforest that seemed, at first, to be empty of dangerous creatures, but upon venturing into the middle of the rainforest, three grungs ambushed the party. Although the grungs were surprisingly resilient, the party fended off their attack and took a short rest in the rainforest before following the path out of the manor and heading toward the lake to take care of the kraken egg.
+
+Eve, in the form of a reef shark, and Vyrana and Korvias in a rowboat were able to track down the location of the egg and, despite the interference of a giant octopus who wanted to eat the egg itself, Eve was able to crack the egg and escape before it was devoured by the denizens of the lake. Back at the hamlet, the party dropped off the topaz with the blacksmith, shaving off a good chunk of the money needed to order better materials, and speaking with Nova once again. A brief discussion with the caretaker revealed that the old man described his goal as wanting to merge with the heart of the world, that the caretaker was a big fan of mayonnaise, and ended with a promise to retrieve his personal effects if the group ever came across his former quarters. In their dreams that night, further, more disturbing revelations about the caretaker came to light.
+
+Next
+[Session 06](Recaps/Auril%20Adventures/Campaign%201%20-%20The%20Dragonest%20Dungeon/Session%2006.md)

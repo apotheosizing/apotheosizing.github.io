@@ -1,0 +1,16 @@
+---
+date: 2018-04-25
+tags:
+  - recap
+  - recap/tcmtm
+---
+# Session 1
+
+Upon arriving at Rosewood Manor, the home of the Lady Eris Eaton who had placed the advertisement that brought them together, the three adventurers were given fuller details on the matter of recovering her uncle’s body from where he disappeared several years ago in the Lifeless Archipelago. Making good on her offer of transportation, Eris introduced the party to the crew of her personal vessel, the Errant Seeker. The crew made their way smoothly to the Archipelago for the first few days, stopping briefly in the Bottomless Isle for supplies but otherwise avoiding trouble until coming across two pleasure yachts under attack by pirates. Through the combined abilities of the party and the crew of the Seeker, the ships were defended against attack and, after ensuring the wounded were tended to, the Seeker made its way to their destination.
+
+Looping around the Achipelago and starting from the northeast-most island, the party began to search for any sign of William Taft Eaton or his ship. On the second island they searched, they came across a couple of caves which were housing refugee slaves from Nargothbel, who were able to point them in the right direction. Promising to send boats from the Seeker to allow them to return with the crew to Ludenwick, they set off for the site of a shipwreck. Carved into the stone of the island nearby the wreck was a temple seemingly created by a cult that worshipped a crow deity, in which the party discovered three survivors from Taft Eaton’s crew were being held prisoner. After being freed from their cells, the survivors told the party of Eaton’s fate - he had transformed himself into a lich and the rest of his crew into zombies. Fortunately, he had left the temple in search of a more permanent lair but, anxious to warn the crew of the Seeker of this threat, the party examined the main body of the temple quickly and returned to their ship with the surviving crewmembers.
+
+Captain Berensen, perturbed by this news, hastily recovered the slaves they had promised to transport to safety and left before the lich could return, stopping at several ports along the way back to Ludenwick to warn them of the potential danger. When they returned to the city, the party informed Eris of her uncle’s fate, corroborated by the testimonies of Taft Eaton’s former crewmembers. After taking a moment to absorb the news, Eris thanked the party and compensated them for their work before making another request of them - the delivery of letters to her family on Taft Island and the retrieval of her cousin. Accepting the job, the party rejoined the crew of the Seeker and set sail. Only a few days into their voyage, the Seeker came across a ship that appeared to be in distress, but were ambushed by the crew of drow upon boarding. Despite being caught off-guard, they managed to fight off the crew and continue on their way to Taft Island.
+
+Next
+[Session 02](Recaps/Through%20Caverns%20Measureless%20to%20Man/Session%2002.md)

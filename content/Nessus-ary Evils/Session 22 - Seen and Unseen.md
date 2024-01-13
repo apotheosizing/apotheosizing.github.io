@@ -1,0 +1,25 @@
+---
+date: 2021-04-13
+tags:
+  - recap
+  - recap/ne
+---
+# Session 22
+By the time the hour of the party approached, the party reconvened in their quarters to coordinate their arrival. The lift ride to the penthouse hall was quiet, in great contrast to the event they stepped into. The attendees consisted of the other semifinalists, a select few former contenders in the tournament, and a number of people affluent enough to purchase their way in. Daaé noted that Agares was mingling with some of the other guests before they were approached by Tangie, who neglected to explain how they had escaped the wrath of Terence Wiseacre when questioned and instead turned the tables to insist that they - and the rest of the party - consent to an interview for their current employer.
+
+Reluctantly, Daaé conveyed the request to the rest of the group. Nox was eager to accept and the others followed suit if only to prevent him from saying something ridiculous. Tangie led them over to the reporter who had sent him to speak with the party, a spined devil named Gesia. She told the party that she worked for a newspaper known as The Smoke and that she would be excited to learn more about the unexpected arrivals who were taking the tournament by storm.
+
+Gesia began by asking them several questions about their journey thus far, including how they became acquainted and what their aim in Phlegethos was, before delving into more serious matters. The party addressed the widespread rumours that their success in the tournament was the result of cheating, as well as expressed their opinion on Fierna's relatively recent rise to the position of archdux. All the while, Tangie hovered around the party and interjected with their own questions. Nox took poorly to this, reacting rather rudely to him, and then found himself on the other end of Tangie's contact poison. Finally, she asked Nox about his private meeting with Fierna's warlock which he explained was purely a social meeting predicated on their history back on the Material Plane.
+
+As though summoned by the mention of his name, Artemidorus approached the party at the conclusion of the interview. He disapproved of their interview with Gesia, citing the poor reputation of the devil after her publishing of a slanderous piece involving Fierna. He and Nox soon devolved into their usual arguing, drawing the attention of the other guests but allowing the rest of the group to slip away from the spotlight.
+
+Now that they had an opportunity to look around, Daaé realized that Agares was nowhere to be seen, though their euchre partner remained on the floor. Apollo and Daaé approached the abishai. He was affable enough, introducing himself as Leyak and answering Daaé's questions about Agares. However, he didn't know much about them personally nor could he offer insight into their motives beyond affirming that they seemed to dislike Apollo immensely. Meanwhile, Mircea was approached by a mezzoloth with a message from Princeps Astaroth; she and Orobos had concluded negotiations with the rest of the court of Dispater to send a contingent to Avernus. In addition, Andrealphas wished to speak with him the next time he returned to the city of Dis.
+
+With Leyak being a dead end, Apollo and Daaé left the penthouse to search for Agares. Tangie followed them out of curiosity, which the pair allowed when he promised not to make a nuisance of himself. One of the staff of Belial's indicated that they had seen them in the area of the casino. Following this lead, the unlikely trio spotted Agares speaking seemingly to thin air before departing the building entirely. All present agreed that their behaviour was strange, but there was little that could be done about it. The rest of the party held little of interest and thus Apollo and Daaé took the opportunity to return to their quarters rather than return to the party. Mircea and Nox made their way back an hour or so later. 
+
+In the morning Artemidorus came by with the latest issue of The Smoke, which was dominated by a first page article speculating about Nox and Artemidorus' relationship in the salacious tone of a gossip rag. The interview with the party as a whole was relegated to the second page and was equally ridiculous, filled with wild speculation about the true reason that the four had been invited to Phlegethos. Artemy was not pleased by the matter but indicated that he would be able to do some damage control before the story got out of hand.
+
+The semifinal matches proceeded as planned, with Daaé and Mircea facing of against Shiro and Kuro while Apollo and Nox contended with Artemidorus and Apollodorus. Both matches were rather long and it seemed at several points that the party might finally be defeated by their respective opponents but both pairs emerged victorious, meaning that the final match of the tournament would take place between the four of them.
+
+Next
+[Session 23 - To the Victor, the Spoils](Session%2023%20-%20To%20the%20Victor,%20the%20Spoils.md)

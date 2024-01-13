@@ -1,0 +1,31 @@
+---
+date: 2023-07-23
+tags:
+  - recap
+  - recap/tdd
+  - recap/tdd/tdd3
+---
+# Session 39
+
+When the adventurers touched doen at their destination, they discovered that the edge of the pit that was formerly Cyretta was not only a physical demarcation; there was a energetic envelope containing a strange silver mist covering the area, which served as a thin barrier - just solid enough to require active effort to pass through it. The party, undeterred, stepped inside and found themselves not on the crater out of which Cyretta had been scooped but a starry expanse.
+
+Dotted amongst the empty space were free-floating chunks of what remained of the town of Cyretta. There were three major groupings: to the south, a tower of glass reminiscent of Vitris' architecture inscribed with runes they had seen in Elbarai; to the east the smallest portion of the surviving land, looking worse for wear; to the west the only part of Cyretta's wall that had not broken apart, where the party could see activity as the people of the town fought off the Flesh.
+
+Fortunately, the Astral Plane could be traversed by thought alone, allowing the party to fly to the aid of the town guard. After brief introductions their captain explained what she knew of the situation. The twenty years Cyretta had spent stranded in the Astral Sea had only been a week for the people of the town and so, while they were losing ground against the Flesh, things were not yet dire. The Flesh had reached the town through a well on the other side of the wall and presumably the mind controlling it remained there, cut off from the main body of the Flesh but still in command of the portion that threatened the town. Initially the captain asked for the party's help in healing the wounded and gathering supplies but the party was confident they could eliminate the danger posed by the Flesh entirely and opted to head into the well.
+
+The caverns beneath were coated by Flesh and its victims in varying states of consumption. These partially digested people reached out to the party as they explored, not to beg for help but to extol the virtues of a great connection. The adventurers fought off the creatures and headed through the branch of the passage moving east, where they discovered a disassembled warforged. With AIDA's instructions they were able to reconstitute the construct and awaken him. He introduced himself as Clive and explained that he had been running an errand for Jappe Hamstra, the mage who had transported Cyretta here, when the city was transposed and had been trapped in the Flesh soon after. 
+
+After escorting him to safety, the party continued to search the tunnels, contending with more creatures of the Flesh and a handful of mimics to reach the large reservoir that would have been the end of the well's caverns when it was operable. A Constanze, her malformed face all that was left of her and that bloated and oozing. It and its attendant Flesh creatures attempted to repel the party but the moment the Constanze was destroyed, all the Flesh began to wither, having no other connection to the whole.
+
+Back above, the party made their way to Jappe Hamstra's tower. The entry hall contained a slew of impressive-looking magically inert objects and a bell for summoning someone named Moss. Ringing it called a young woman who looked incredibly relieved to find people able to help her. She explained that while Jappe had been intending to move Cyretta away from the Flesh for some time before the incursion, the complete version of his ritual had not been ready when the moment came. Instead, he improvised, and while some of Cyretta was saved, it all crashed into the Astral Plane. Jappe himself had been either killed or incapacitated by the spell, as his various contingency spells in the tower had been activated but those very spells were preventing her from reaching him to determine his status.
+
+Fortunately, AIDA had the use of an antimagic field which bypassed every single one of these traps and summoned creatures - with the exception of a very silly incident involving three living spells, three demiplanes, two fire elementals, and a rakshasa - to reach the ninth floor of the tower where an unresponsive Jappe was being guarded by a summoned fae. When it became clear that the party meant Jappe no harm, she allowed Eve to examine him.
+
+Magical rebound had rendered him braindead but regenerative magic restored him in only a few minutes. When the party asked if Jappe believed he would be able to return Cyretta to the material plane he confirmed that he could. The proper transposition ritual was, after all, unused and absent the time pressure could be easily performed. However, he soon discovered that the basement level that had contained all the material components had been eaten. By the size and shape of the teeth marks left behind, he surmised the basement had ended up in the gullet of an astral dreadnought. These massive creatures were some of the most dangerous beings on the plane but all the party needed to do was get eaten and escape with the ritual materials, so they offered to retrieve them for him. Moss helpfully pointed the party toward the east, where she had heard rumours of townspeople making sacrifices of residents to the dreadnought.
+
+Following a night of rest, the party headed toward the final cluster of debris-islands. Like their first landing point, it had been damaged during its subjective week in the Astral Plane but unlike the siege from the Flesh this looked to be self-inflicted by some manner of riot. The party's arrival interrupted what was half sermon and half town meeting, which was just as well, as AIDA had no intention of letting the ringleader justify himself. She struck first and quickly eliminated the man - who turned out to be an illithid in disguise - and his bouncer, which was an intellect devourer puppeting a corpse.
+
+Perhaps drawn by the commotion, the party glimpsed the titanic form of the astral dreadnought on the closing distance with them, leaving them only a few minutes to pin down a strategy to get in and out of its body with minimal casualties…
+
+Next
+[[Recaps/Auril Adventures/Campaign 3 - A Wasteland of Flesh/Session 40|Session 40]]

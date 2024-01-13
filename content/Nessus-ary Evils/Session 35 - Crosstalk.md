@@ -1,0 +1,32 @@
+---
+date: 2022-03-15
+tags:
+  - recap
+  - recap/ne
+---
+# Session 35
+
+In a bid for more information, Marica and Nox devised a plan to access Halidor’s records. In the form of insects, the pair would slip under the employees-only door at the back of the bar and do reconnaiscense. Two doors, one each to the left and right, were accessible through the backdoor. The duo headed left first into a small, bare room that held a wolf in a cage. It was a simple matter to surmise that the wolf was a magical creature but its loyalties were not easily assessed without waking it and risking discovery. Thus, they let sleeping dogs lie.
+
+A large hall, nearly the size of the accomodations at front of house, was bustling with a very different clientele. Halidor was holding court with a select few of her allies on a matter of grave importance. The devil’s predecessor and confidante an individual named Solomon, had recently been taking into custody by enforcement officers led by Apollodorus herself. Given the sensitive information he had in his possession, Halidor was considering the best course of action to keep her secrets out of Glasya’s ears. She had even put the idea of an assassination into circulation among her advisors.
+
+This information was illuminating but every moment spent in proximity to Halidor was another moment of potential discovery by their enemies. Marica and Nox quickly retreated to the initial branch in the corridor to see what lay on the right path.
+
+Though Halidor’s office lay elsewhere, a number of documents were stored in the modest room to the east. In humanoid form, the two scoured Halidor’s transactional records, following the trail of soul coins. Marica was able to trace significant funding and what could only be equal personal investment in the writing and production of a play called “The Witch’s Heart” to debut in a few days at the Kintsugi theatre.
+
+Having a potential answer to the first security question and the potential for Solomon to act as an informant, Nox and Marica concluded that it would be best for them to rendezvous with the rest of the party. Just as they turned to depart, they found the room’s single door locked and Nox noticed a strange smell filling up the room. Acting quickly, Marica transformed them both back into flies and they fled from Halidor’s through a crack in the wall.
+
+Once the party was reconstituted, the four adventurers set out for Malbolge Carceral Services that very day, enticed to speed by the possibility that their contact would be dead if they waited any longer. Their previous interactions with Apollodorus, the highest authority on the plane excepting Glasya themself, secured them a meeting with her. The party explained their needs to the warlock and she was more tban happy to assist them in their errand for her patron. While she went to clear their access to Solomon with the MCS, Nox attempted to get a look at the papers on her desk. He had no luck, as they were ciphered and at least one of her cabinets was warded, which he discovered the hard way.
+
+In no time at all, the adventurers were escorted to the cell where Solomon was being held. The devil was reluctant to speak with the party, even in the knowledge that his former student sought to eliminate him. It was, he felt, the only smart move for Halidor. Nevertheless, like anyone else, he had demands that could be met, freedom and asylum being chief among them. Apollo conferred - mostly for show in front of Solomon - with Glasya to ensure that they had the authority to offer these things on her behalf. She authorized them to make any offer they felt was necessary.
+
+With that tantilizing prospect on the line, Solomon was willing to talk. He named two friends of Halidor as potential sources of the true name question and told the story of the mistake at the Siege of the Crushing Tide that cost Halidor her career in the armed forces. In private, the party doubted that anyone but Solomon’s true name would help them, but Halidor’s dishonourable discharge seemed a likely answer for her biggest regret. Complicating the matter of obtaining Solomon’s true name was the fact that the word itself would do them no good unless he gave it to them. No planar researcher had assembled all the details of why but Apollo knew that there was some power in speaking a name from that being’s own lips. However, they surmized that it was possible that the unpowered name would be sufficient for a mere security question and resolved to consult Apollodorus on the matter.
+
+Although it seemed they had all their answers, something about what they had learned was bothering Nox. As Solomon told it, Halidor had been the commander of one prong of a lynchpin dual offensive and she had failed entirely to appear at the crucial moment. Supposedly it was a matter of fear in the face of the overwhelming numbers of seirim but Nox suspected that it was more likely a calculated act of sabotage. In those days, Bel and Zariel were actively engaged in a power struggle, with Bel the archdux and Zariel seeking to subvert him. A perfect way to undermine Bel was to engineer an embarassing and devastating defeat for which a lesser devil could take the fall.
+
+In the hope of confirming his theory, Nox attempted to contact Vortigern through his sending stone only to find his message had no destination. Puzzled by this, he asked Apollo to cast sending, first to Vortigern and then, when the spell fizzled out, his optio. Haagenti gave no response. As a last resort, Apollo sent a message to Lilith, the knight they had met in Quintestra months ago.
+
+Lilith had grave news. Unholy Triumph had been attacked by Harut and an overwhelming number of seirim. She had not been able to confirm the fates of the forces stationed there and could send no more details within the confines of the message. Immediately, the party attempted to travel to Avernus, only to learn that all movement in and out of the plane had been forbidden. Even Virgil was unwilling to take them there, claiming he would be throwing away his investment in them by allowing them to walk into certain death. It seemed that no matter where else their concerns lay, the adventurers had no choice but to finish their work in Proscenium.
+
+Next
+[Session 36 - A Hair's Breadth](Session%2036%20-%20A%20Hair's%20Breadth.md)

@@ -1,0 +1,31 @@
+---
+date: 2021-05-04
+tags:
+  - recap
+  - recap/ne
+---
+# Session 23
+The crowd's reaction to the news that not a single devil had reached the finals was tepid, though polite applause was offered at the Master of Ceremonies' insistence. Daaé, who had been keeping an eye out for Agares ever since seeing them speak with Judy two days before, noticed that they were surprised by the outcome of the matches before departing with the other onlookers.
+
+Nox immediately insisted that (though of course the exact winner among them was no longer important) he and Apollo would emerge as the champions in tomorrow's game. Mircea countered that he and Daaé had the advantage of great experience, as Apollo and Nox had only learned the rules at the start of the tournament. Daaé reminded them all that it was likely the bigger problem lay after the outcome was determined in facing the disgruntled public, or possibly even the coup that they suspected Agares was concocting.
+
+Back in their rooms in Luck's Luxury, Daaé prayed to the Raven Queen. She had been silent since the return of Blackrazor but Daaé recalled Her statement on the banks of the River Lethe that there remained work to be done in the Nine Hells. An answer to their request for guidance appeared in the pages of their journal. They were to seek out the memory of a speaker and by following the Raven Queen's signs they would find their way to it. There was little else to be done except while away the time until they felt the need to sleep.
+
+On the day of the championship match, the throne overlooking the euchre room was occupied by Fierna. They watched the party play until their final hands intently but impassively. Both sets of players seemed evenly-matched but Nox and Apollo were able to pull ahead by one last point, earning them the honour of first place. As the Master of Ceremonies returned to the stage to make a formal announcement of the winners of the tournament, the party was overtaken by a spell that muddled their minds and caused Nox to suddenly attack Daaé. They were unprepared for combat and dealt a heavy blow by the tiefling but before things could escalate further, the culprit revealed themself; Agares stood in the doorway with hatred in their eyes.
+
+After a tense few moments of finding themselves unable to effectively combat Agares, Fierna waved a hand and dispelled all the magical effects in the room, evening the playing field. Apollodorus and Artemidorus likewise intervened more directly on the party's behalf by helping them fight off the abishai. Fortunately, Agares seemed exclusively fixated on wresting Dragon's Breath from Apollo's grasp, which allowed the rest of the party to attack without fear of reprisal. In the end, it was Apollo who struck the blow that felled them, though Artemy stayed his hand from killing the abishai. Given the clear entitlement Agares felt toward Dragon's Breath, there was a need to litigate its ownership before determining a punishment. The twins told Apollo that they would escort Agares to Maladomini where they would await trial, noting that he would be summoned once a date for the proceedings had been set.
+
+The Master of Ceremonies furnished the party with the first- and second-prizes before directing Nox and Apollo to the castle at the heart of the city and the audience with Fierna that awaited there. Despite the fact that only two of the four of them were able to entreat the archdux, the entire party travelled to the castle, with Daaé and Mircea serving as witnesses for what would otherwise be a conversation behind closed doors.
+
+In contrast to the bright extravagance of Los Caeli as a whole, the castle was more solemn and stately, like a relic of a former age. No guards stood on the approach to the throne room and the lingering magic of consecration permeated the very stones of the building. Sitting on the throne was a different archdux than the one they had expected to meet - Glasya, Archdux of Malbolge. She expressed her excitement to finally meet the individuals who had assisted in solving the murder of her envoy to Dis and indicated that she had more to offer them than her thanks.
+
+The party had proved to be both potentially useful and potentially disruptive, both aspects that draw the archdux's interest. But before they revealed the full extent of their plans, they set a test for the party. A devil whom she described as a friend of hers named Halidor needed a reminder of who was the ultimate power in the plane. Glasya wanted the party to infiltrate her arm of their network and sabotage her next large-scale operation. Despite her personable tone, the party was well aware that this was not a request.
+
+Once the four agreed to carry out their will, Glasya disappeared, leaving the throne room empty for several minutes. Just as they were beginning to wonder if Fierna intended to meet with them at all, the archdux arrived through one of the doors on either side of the throne to hear their petitions. Nox requested that Fierna provide resources and conscripts to the war effort in Avernus. Phlegethos was historically a lesser contributor to the Blood War, as its entire existence centred around encouraging visitors to forget their cares, but Fierna gave Nox a standard that would serve as a pledge of their support.
+
+Apollo had no request to make of the archdux so he allowed Mircea to plead his case to her in his place. He explained his wish to speak with Faustus in the hope that he might be able to assist Mircea in returning to Barovia. Fierna agreed to provide Mircea permission to enter Cania once the task Glasya had asked them to undertake was complete. As the party made to depart, Fierna told Apollo that she would deign to remember his name, as a means of fulfilling his desire to make his name known.
+
+The five travellers' final night in Phlegethos was spent contemplating what lay ahead and what exactly Glasya intended for them on the morrow...
+
+Next
+[Session 24 - An Open Door](Session%2024%20-%20An%20Open%20Door.md)

@@ -1,0 +1,35 @@
+---
+date: 2020-05-24
+tags:
+  - recap
+  - recap/tdd
+  - recap/tdd/tdd2
+---
+# Session 9
+
+Having slept on the matter, Sal decided that they couldn’t stand the suspense for as long as it would take for Mendelain to learn to bestow true seeing. They sought out Kijenor, who was willing to divulge what he had seen for a price. After ample bribery, Kijenor revealed that Gauss was a werebear but his other statements about Larold and Yugo were less conclusive. Larold’s tattoos were anchor points for a powerful illusion that obscured the fact that they were made of snow and Yugo was an undead. Sal, realizing that they must have wrongly assumed that Yugo’s patron was the undead, had come concerns about him in particular but knew that first they would need to inform the party of the truth of Yugo’s situation.
+
+A few hours later, the Ice Breaker arrived at the destination the astrolabe had drawn them to, the mysterious town. Floating in the air above the vessel was a ring of islands. A number of them were connected by rope bridges but many had no clear means of transit from the other islands. From the crow’s nest, the party was able to climb up to one of the islands using Sal’s grappling hook.
+
+The party was greeted by the sight of a lectern into which a griffon had been carved. Above the emblem was a welcome to Sanctuary Isles. Nearby, a warehouse stood silent. Despite being outfitted with various cranes and mechanisms that presumably would be used when ships arrived, none of it had reacted to their arrival. Sure enough, when they headed inside, the reception area was completely empty but for a sign that bid them ring a bell for service. With no bells in the vicinity and the obvious wear on the sign itself, it was safe to assume that the warehouse had not been used for decades.
+
+Fortunately, this island was connected to two others with bridges. Strangely, the bridges did not show the decay of the rest of what they had seen so far and were sturdy enough to cross without issue. Of the two islands, the party head to the northwestern one first. Signs helpfully informed them that the two buildings on the island were a combination hatchery-veterinarian clinic and a stable. Inside the stable was an expansive area for animals - presumably griffons given the heraldry - to roost, along with a curious note with a key laid on it. It explained that a body had been left under the care of a guard dog upstairs. Sure enough, the key unlatched a locked trapdoor that led to the next floor.
+
+The guard dog revealed itself to be a spherical construct that whirred to life at their appearance, covered in blades that made approaching it a difficult task. Despite its best attempts to fend off the party, they were able to put it into a non-operable state. It had been guarding a brass griffon that appeared to be asleep, missing several key components. The components were found downstairs near the note but without knowledge of its construction they would be unable to awaken the griffon.
+
+The other building, unlike the rest, was inhabited. A warforged named Ink stood behind the desk of the clinic, just as surprised to see the party as they were to see him. He explained that the original inhabitants of these islands had died out long ago but a number of constructs like himself remained operational. If the party wanted to explore the Sanctuary Isles, he could activate the griffon, which would restore the walkways to the currently inaccessible islands. While Ink did so, the party head to the other nearby island.
+
+A warforged named Chisel had her workshop here. In the absence of visitors for so many years, she had been struggling with inspiration for the new construct she was building. She requested that the party serve as models for some life studies that she could keep on hand for reference in her designs. Seeing no reason to object, given that they would need to wait for the griffon to finish its work anyway, the party held still while Chisel took measurements and sketches.
+
+Once their options had expanded, the party went to a greenhouse where they met the anxious Shedrick and their co-worker Fruit. Excited by the prospect of fresh produce after months of non-perishables, the party paid for some fruit and cuttings of fruit-bearing plants so they could grow their own as well. They also visited the town square, where they made various purchases.
+
+The largest building on the island was home to a tavern where the barkeep had a request for them. As they had learned from Ink, those who had built the warforged had all died. Though they missed their creators dearly, most of the warforged had moved on. The exception was Sentry, who had been made to protect them. He was unable to accept that their deaths had not been a failure on his part and had not been seen outside the mausoleum at the center of the islands since. Ideally, they could persuade him to come to Chisel for repairs of his own accord but, if it came to it, they could subdue him and forcibly bring him back.
+
+It was clear that the wounds caused by the deaths of the inhabitants of the Sanctuary Isles were deep for Sentry, who argued that even if he moved on to protect the islands’ new inhabitants it would do nothing to erase his past errors. Recognizing that they wouldn’t be able to convince Sentry that there was nothing he could have done to save them, Mary was able to make Sentry realize that his failures shouldn’t define him and that he would do more good protecting others now than dwelling on those who no longer needed his protection. He was not entirely certain what form that protection would take going forward, but the party was able to at least get him to return to Chisel’s workshop.
+
+Given that the Sanctuary Isles were more than hospitable, Jeremiah authorized shore leave for the whole crew, who immediately headed to the tavern for a night of partying. The party joined in the revelry, which Sal took advantage of to explain the truth about Yugo. They also imparted the rest of Kijenor’s insights, which the party decided they would need to investigate at some point.
+
+In the late evening, when most of the crew had retired from the festivities, Sal went to confront Yugo, suspecting that they might not be aware of his own undead status. The conversation did not go well, with Yugo growing increasingly defensive in response to Sal’s request that he undergo a dispel to reveal his true form. More alarming was that, when it seemed he was willing to agree if only to get Sal to stop bothering him, he had a sudden change of heart that seemed that he was being compelled. Sal grappled him and, as the sudden outbreak of a fight drew the attention of the rest of the party, Eve cast dispel magic on Yugo. Beneath his disguise, he was indeed undead but more unsettling were the multitude of eyes that looked out from inside his body…
+
+Next
+[Session 10](Recaps/Auril%20Adventures/Campaign%202%20-%20A%20Frigid%20Expedition/Session%2010.md)

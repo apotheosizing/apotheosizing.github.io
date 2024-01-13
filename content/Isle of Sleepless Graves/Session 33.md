@@ -1,0 +1,36 @@
+---
+date: 2020-01-08
+tags:
+  - recap
+  - recap/iosg
+---
+# Session 33
+
+The prevailing wind that blew to Elihyel served as an obstacle, in contrast to their first journey on the Sugar Gold, increasing Zoe’s estimates of the journey despite its uncertain length. Until Yoor’Zogoth deigned to show himself, the party had little to do other than pass the time. Three days into the voyage, they came across a familiar sight. Three amnizu stood on an islet, watching the ship approach. Remembering the deception from months prior, Faustus and Tadhg wasted no time in making the sea hags aware that their tricks would not work and routing them back into the sea.
+
+A week later, they came upon another ship sailing the seas. It hoisted the same colours that Gorkon’s ship had, proudly proclaiming Yoor’Zogoth’s patronage. Under the effects of a water walking spells, Tadhg cut to the chase by using their inhuman speed to cross the waves to the other ship and defeat the entire crew, leaving it a sitting duck for a fireball to sink the vessel. As Tadhg climbed back aboard the Sugar Gold, Felicia commented with some surprise on how much stronger the party had become during their stay in Elihyel, confident that the rest of these recurring obstacles would pose them no trouble.
+
+Ten days passed, during which the party fended off an aggressive swarm of sharks, received some mail, and dueled Felicia once again. This time, it was Tadhg who rose to the challenge. Despite having no formal training with the rapier, they were able to land the first strike on Felicia through sheer dexterity, earning themself a very fine spyglass. After three more days, a duo of blue dragons descended on the ship, proclaiming that they would not allow enemies of Yoor’Zogoth to pass through these waters. The dragons were both unable to do much damage to the ship before the party defeated them, a far cry from the arduous battle that had played out when the party had faced the same enemies with Thrax in their ranks.
+
+Cottoning on to the déjà vu of all these encounters, Tadhg decided to check the ship for stowaways. With their keen eye, they spotted an unexpected passenger – a frog. With a lack of other pursuits to occupy them, Tadhg turned into a frog to speak with the stowaway. Rather than answering their questions, a strange eldritch whispering emanated from the frog’s mind, frightening Tadhg away. Dell, unaware of the frog’s oddness but seeing clearly that there was something going on, tossed it over the side of the ship. As their fear faded, Tadhg called upon the Dagda to return the frog so that they could get to the bottom of the matter but he was unable to do anything to the frog.
+
+Six days after that unexplained incident, the weather soured, with rain heralding the arrival of another marid with delusions of grandeur. He was, in fact, a cousin of Sesham and ended up meeting the same fate as his kin. From this point onward, the weather progressively worsened over the next week. It began with gathering and darkening clouds, then torrential rain, howling winds, and bone-deep cold. It was obvious to even the least superstitious of the crew that it portended something.
+
+When a beam of light pierced the gloom even Felicia and Zoe retreated bellow deck. The storm stilled almost imperceptibly as Ravam appeared, the blinding light that enveloped him vanishing as he descended to the deck of the ship, the lashing rain and wind regaining strength. Despite a disguise that projected the same glorious form that he had shown at Wendalin Tower, Dell saw beneath the deception. The once proud light seemed filtered, like the sun through water, and the peerless golden crowns from which his wings extended were rusted and dull. Ravam had fallen.
+
+Ravam explained that he had been released from the constraints the gods of Elihyel had placed on him and that at long last he would purge the stain of the party’s existence from the plane. Without a moment more to allow the party to prepare, he attacked. Fortunately, Kai moved first, intercepting the angel and unleashing a flurry of strikes. Where before ichor might have bled from his wounds, seawater flowed from each gash, as though it had replaced what he had left behind when he turned his back on the gods.
+
+Before the party could kill the corrupted angel, the ship rocked violently as the sea roiled. Yoor’Zogoth’s form rose from beneath the waves, drawing the party’s attention away from Ravam. Though the four of them were magically protected from drowning in the vicious depths, there was nothing but the party to prevent Yoor’Zogoth from buckling the Sugar Gold and condemning its entire crew to a watery grave.
+
+As Dell and Tadhg mounted a defense on the starboard side of the ship, Faustus and Kai worked to eliminate Ravam. The angel was grievously wounded from both Kai’s onslaught and being thrown through the lower planes but he was not out of the fight yet. Protected from the worst of his radiant might, Faustus was able to withstand most of his attacks until he was caught in the grip of the kraken. For a second time, Ravam struck a killing blow and this time there was no Wand of Orcus to divert his wrath from the rest of the party.
+
+As Tadhg abandoned defending the ship to revive Faustus, Dell and his Scouts were ensnared by the kraken. The close quarters were not a problem for Dell, who had mastered using his weapons in proximity but it did remove the protective benefits of the Scouts on the rest of the party, weakening their defense. Yoor’Zogoth turned the storm against the party as well, causing lightning to lance down from the storm clouds above. Each time the party was able to avoid a bolt, the wood of the ship beneath their feet splintered, slowly cracking the vessel apart.
+
+Kai chased after Ravam by air, managing to keep pace with the solar, harrying his attempts to attack the party members aboard the ship, but it was Dell who landed the final strike that destroyed the angel’s form on the mortal plane. Despite the trouble he had no doubt gone to in order to gain Ravam’s allegiance, Yoor’Zogoth was unconcerned, secure in the knowledge that being reconstituted on an outer plane would not break the hold he had over the solar.
+
+Once the entire party was back in fighting form thanks to a fresh wave of Tadhg’s healing magic, they redoubled their efforts against the kraken. In addition to the arsenal of spells at his disposal, Yoor’Zogoth was able to use any of the adventurers he was able to get his tentacles on to attack the rest of the party, throwing them clear across the ship and into the turbulent water below.
+
+Nonetheless, the party fought back between the blows, inflicting enough damage to continue whittling down the kraken despite his regenerative abilities. Even so, it was likely that unless they were able to turn the tides, the Island Drowner would not be the first to fall. Using everything they still had at their disposal, the party brought the kraken to the brink of destruction and Kai, wielding the flametongue, cut through the torrent that would have doused any lesser flame to slay the great leviathan. As his body sunk beneath the surface of the water, the storm above the Sugar Gold broke, marking the end of Yoor’Zogoth’s dominion over the seas.
+
+Next
+[Session 34](Recaps/Isle%20of%20Sleepless%20Graves/Session%2034.md)

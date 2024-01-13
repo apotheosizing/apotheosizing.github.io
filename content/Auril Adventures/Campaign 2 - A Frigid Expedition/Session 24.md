@@ -1,0 +1,38 @@
+---
+date: 2020-10-04
+tags:
+  - recap
+  - recap/tdd
+  - recap/tdd/tdd2
+---
+# Session 24
+
+After making their final preparations, the party began their flight over the landmass to reach the centre of the disc. They sped over both the outer desert and the ringed forest, noting the potential perils they were avoiding on their travels as little more than curiosities. Mere hours later, they arrived at their destination. Floating atop the lake was a city of construction unlike any the five had ever seen. Perfectly straight streets connected the buildings, the grid broken only by the central ziggurat.
+
+A psychic message broadcast from the city itself bid the party land at one of the edges of the city, which the group obeyed. The moment they reached the ground, Mendelain knew that the city had been designated as a temple, presumably to Gond given the nature of the one who had constructed it. Peculiarly, small mobile constructs were flitting about the streets performing basic upkeep of the infrastructure. One of these creatures, an information model designated Buddy, informed the party that they had arrived at Teleportation Hub Theta.
+
+Unfortunately, the hub itself was inoperable but maintenance had been alerted. The party asked Buddy if he knew when that message had been sent. He replied that it had be 97230 years. As the maintenance team had never arrived and diagnostic systems could not be used, he could not inform the party what required fixing.
+
+He could tell them, however, that another unit would be able to assist them in other respects inside the hub proper. The party ascended the steps of the ziggurat to find that it was the only area of the city to show its considerable age. Within the structure, a circular formation of gates, each labelled with a letter, languished. Broken constructs were strewn across the floor, suggesting that the hub's malfunction may have been due to an accident of some sort.
+
+The party was able to access the operations centre of the hub by applying some elbow grease to the long-stuck door. Magical formulae and other systems required for teleportation lay inactive but it became apparent to the adventurers that the empty pedestal with a strange series of numbers carved into it and the scorch marks on the floor were a point at which they could begin their investigations.
+
+Calling Buddy, they ascertained that the numbers were a date. It was not notable aside from the fact that Buddy had a recording of the events of that day, which he was able to show to the party that they might witness it with their own eyes. Nearly a hundred thousand years ago, an aarakocra named Cyrus had sat in that very room to ensure this message would be heard. He disabled the teleportation hub to trap a dangerous being in transit in the full knowledge that doing so would result in the loss of many lives. Nevertheless, it was the better alternative. The being was known as Constanze and Cyrus indicated that she had similar powers to the Guardian. Before he acted to prevent his transformation from taking hold, this was his final correspondence - a warning to whomever might try to reactivate the hub.
+
+In light of this information, the party spoke with Buddy about their intention to return the hub to operation. He indicated that it would likely not be a problem, as any creature trapped in the middle of the teleportation process for so long would have died millennia ago. Furthermore, he was able to explain that the pedestal should hold an orb which provided a focus to guide teleportation and restoring it should open all the gates.
+
+Buddy's description was reminiscent of the astrolabe but it did not fit properly in the mechanisms. Nova, recalling that Cyrus had indicated that the orb if removed would be destroyed after enough time had passed to make room for things that were being used and the other Buddy mentioning that much of the city was in storage, asked if they could search for it there. Mendelain divined the orb's location, finding it was indeed intact.
+
+Recognizing that this Constanze could be a potential threat, the party took one last rest before they completed their task. Yugo regaled them with his version of the events of their journey (only slightly embellished) before the night was through.
+
+As dawn broke, the party performed the simple act that would usher in a new age for the world - they restored Teleportation Hub Theta. The other eleven gates turned on and, as though to prove they were functional once more, a strange cocoon fell out of one of the gates. From this shell, a tiefling who introduced herself as Constanze emerged. Despite her strange behaviour, she did not seem outwardly dangerous until she grabbed Eve as she offered her a goodberry. Taking this as hostile, the party began to fight her off.
+
+Only seconds into the altercation, Constanze revealed her true nature. She was a creature of the Flesh, capable of splitting her body into discrete monstrous fleshy forms, all of which were hungry. Though Mendelain was engulfed by the empty skin and Korvias was knocked unconscious in the struggle, the party was able to defeat the forces of the Flesh without sustaining any permanent casualties.
+
+As they tended to their wounds, one final piece of what had once been Constanze escaped through the Zeta gate. Before the party could give chase, the gate was shut down due to the presence of "biological contaminants". Though the party worried about the consequences of her escape, Nimbus appeared in the form of a blinding bodiless light to inform them that she posed little threat for now. They explained that she had once been a Hand of Mystral but, unlike her fellows, she had sided with Flesh. However, reconstituting herself and enacting any real plan would take her many years, during which the party would be better served by preparing themselves to face it than chasing after her.
+
+With the means to return to their home disc available to them, the voyage of the Ice Breaker had ended. The party remained in contact with each other and those they had met but otherwise enjoyed a period of rest in the wake of their grand adventure.
+
+The world, however, did not experience a similar peace. In the days following what would be day zero of a new calendar, the crew began to migrate through the gates. As they returned, word of what had been uncovered in Ahv'el spread across the disc. Wars began to erupt as kingdoms fought over control of the hubs in their own discs, seeing the opportunity to control such a powerful device. Four long years of conflict were ended by either conquest or cooperation and, from these successful campaigns was borne a coalition of discs that would serve as the first global organization since the Hands of Mystral.
+
+Five years later, another attempt was made to cross the ice by a disc that did not join the Coalition. This expedition, headed by Jeremiah Manswell and the Ice Breaker II, was lost, its fate unknown to this day. Eventually, the Coalition turned their attention to the matter of gate Zeta and, though they manage to open it, many soldiers were lost in an bid for control of it. The matter was kept secret, despite several subsequent failures to overcome the dangers of Zeta, until it became clear that the Coalition must do something to end the stalemate. Thus were a number of adventurers contacted, including several former members of the original Ice Breaker expedition who were drawn out of retirement to face what lurks in the final unknown corner of the world.

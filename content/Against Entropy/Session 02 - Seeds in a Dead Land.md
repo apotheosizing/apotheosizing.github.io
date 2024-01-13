@@ -1,0 +1,36 @@
+---
+date: 2023-06-26
+tags:
+  - recap/ae
+  - recap
+---
+# Session 2
+
+The multi-wing library of the Septaspire rivaled many a small town in sheer scale, making locating the appropriate shelves for the party's purposes an ordeal itself. Frelia and Temperance were able to direct their companions to the southern wing which housed geography and history of the Material Plane. From there, the group broke off to research various aspects of the Dead Continent.
+
+Angel and Temperance focused their efforts on the present state of the continent, with Angel interpreting the archive of land surveys and Temperance focusing on matters of climate and logistics that would affect their route of travel.
+
+Angel gathered that cataloguing what was essentially an uninhabited slab of rock was considered an unworthy task for a member of the Septaspire and the more recent surveys had been done perfunctorily. Still, given that Annar Vult had changed only by decaying in the millennia since its fall and more major geological changes like rivers being diverted or the coastline eroding were so slow that what the encountered was unlikely to be meaningfully different from the map. For good measure, she made a smaller, portable copy for use on the road.
+
+Temperance was surprised to learn that the typical weather of the Dead Continent was a humid heat with frequent rain, given that the Septaspire, Hedgesfoot, and even parts of the Mares Crisium and Ingenii that bordered the lands claimed by the Circle of Seven had milder climes due to the efforts of dedicated meteorologists. Worse was the apparent lack of anything like waystations or potential areas that offered shelter from the elements for those traveling overland. Going by sea was an option, of course, but it limited the areas they would be able to search to those within return distance of the coasts.
+
+Kiel and Pierre, meanwhile, looked into the history of the continent and the White Company. Kiel uncovered the long history of the city of Annar Vult, sometimes called the Black City, which began so long ago that the identity of the people who constructed it had been lost; ancient sources wrote of it as though it had been old when they had been taken down. A powerful lich - whose named had been magically removed from the books she consulted in a way that made it clear this person was one of the two gods who had once been mortal - had conquered the city during the Days of Myth and ruled there until one fateful night. Whether by coincident or conspiracy, the disappearance of his apprentice Acererak, a betrayal by his faithful lieutenant Kas the Bloody-handed, and a revolt led by the heroes of the White Company all came to pass on the day that the city fell and the continent was scoured.
+
+Pierre picked up the threads of two significant names in the history Kiel related, Acererak (as her tomb to the south was ominously marked as 'inhabited' on the most recemt survey Angel had found) and the White Company (being his quarry). Much of Acererak's early history was obscured by the exploits of her more famous master but she came to prominence after the destruction of Annar Vult as a dangerous enemy of the Circle of Seven. In particular, she cultivated a rivalry with the wizard Bigby that eventually destroyed her, as their final duel ended with her losing the power of the spell Wish and vanishing from the historical record. Not long after, her tomb began construction and - unlike other buildings of the Dead Continent - it has not deteriorated in the long years since it was first discovered.
+
+Accounts of the White Company were far more ambiguous, as the group had been made into folk heroes whom bards and poets would adapt for their own time and culture, supporting conflicting causes in every major war depending on what the storyteller though was the righteous side and even having different names. However, there was general agreement that the Company had formed in the Black City and was headed by a figure named Natasha Yragerne.
+
+Having devoted the majority of the afternoon to their studies, the party began to regroup and share what they had learned when they were interrupted by an ear-piercing scream and what sounded like stone cracking from the nearby east wing. Some wanted to help and some were keen to leave the library before things got worse but all in the group were in favour of returning to the quadrangle, and so they went.
+
+A gaggle of patrons had already clustered around the door, though they had no luck in opening it. Pierre - who had been in favour of intervening - was able to jimmy the lock and open the door but he was unexpectedly pulled inside by some unknown creature, which decided the rest of the party on the matter.
+
+The adventurers went through the door through which Pierre had disappeared and found a grim sight. All the visitors to the eastern wing had been slaughtered by a lich and two creatures under their control, not only killed but all beheaded. Strangely, this lich seemed to be hosting some strange parasite, a black vine that wound through their skeleton which none of the adventurers could identify. They were not afforded much time to look, however, as the lich warped the space around the party to open some dark gateway to the black between the stars that blinded them to their surroundings before attending to the business that brought them to the Septaspire.
+
+One by one, the party was able to escape the void and scrouge up weapons from the fallen library patrons to slay the lich's two companions. All the while the lich themself ignored these would-be heroes, clearly searching for something on the shelves. Angel was able to get close enough to make out that they were muttering the word "seed" as they flipped through book after book.
+
+The party was able to forcibly draw the lich's attention by attacking them directly but it was only after Pierre shot the book out of their hand and Kiel got close enough to land a few good hits on the lich that they began to take them seriously. They returned Kiel's attacks in kind and knocked her unconscious into the decorative pool at their feet. When they moved in for the kill, Kiel was saved only by the sheer luck of their deathly touch failing to rip her soul from her body. A distraught Frelia was able to shelter Kiel from further harm while the rest of the party killed the lich. Once the danger had passed, Temperance healed Kiel enough to take her out of immediate risk of death.
+
+About this time, Cleric Minnema arrived with a number of other faculty and volunteers to take charge of the situation, leaving the party the room to take a breather and regroup. While Pierre headed out for a smoke and Temperance was sent off by their mentor to fetch spellcasters who could revive the beheaded students, Angel retrieved the last book that the lich had been desperately searching before being forced to deal with a pack of meddling intruders: a tome of creation myths of the Abyss.
+
+Next
+[[Session 03 - Hook, Line, and...|Session 03 - Hook, Line, and...]]

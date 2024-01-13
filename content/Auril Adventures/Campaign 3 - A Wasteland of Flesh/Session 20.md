@@ -1,0 +1,43 @@
+---
+date: 2022-08-21
+tags:
+  - recap
+  - recap/tdd
+  - recap/tdd/tdd3
+---
+# Session 20
+
+Vamir grateful reincorporated his heart and made a further request of the party: to bring him to the Obsidian Desert so that he might return to the court of the Distant Prince. As they needed to travel there themselves, they easily agreed. Vamir was able to provide some information about the two cities of the desert. The court of the Distant Prince was a city of mummified undead. Vamir himself was not familiar with the prince on a personal level but had no particular complaints about them. Receiving permission was required for entry and, in recognition of their assistance, he was willing to make a request on the party’s behalf.
+
+AIDA transported the party and their passengers (namely Kijenor and Vamir) to the deck of the Javelin for departure. During the few days travel, Kijenor told Eve that he had business elsewhere and would likely leave once they arrived at the fort. Eve floated the idea of forming a retainer contract with her so that he wouldn’t be put in a situation like the one with the archbishop without an out, but Mary was adamant that Eve not use her souls as the payment. All of her compensation from the Coalition was being forwarded to the hamlet so Eve and Kijenor decided they could work out the details over time.
+
+In the party’s absence, Fort Zeta had evidently gained a number of reinforcements, as there were greater numbers of guards and patrol forces visible as they landed. A junior officer told the adventurers that Felicity wanted to speak with them as soon as possible.
+
+Upon their arrival Felicity was in the middle of a discussion with a man in a black uniform. He introduced himself as Isadorus Magnus, of the Internal Affairs division. He had been dispatched to provide additional oversight to the Zeta project, implying but not outright stating that the Coalition suspected some details were being omitted from reports. 
+
+He asked the party some questions about their progress so far, with particular interest in any surviving communities on the disc that would be interested in building relationships with the Coalition and any magical items of note. After, Isadorus pulled Eva aside for a short chat wherein he offered her a position in the Investigative branch of the Coalition. Eva was interested but wanted to help her companions retrieve the diamond before she transferred out of the disc.
+
+As there was nothing requiring their attention at the fort, the party headed out for Agranic later that day. Between Scrimblo and Vamir, they were able to assemble a reasonable picture of the strained relations between the city of Vitris, which Vamir described as arrogant upstarts with no respect for tradition, and the Prince’s city, which Scrimblo knew was quite politically conservative.
+
+Vamir took his leave once the Javelin reached the outskirts of the desert of black sand, promising to contact them once the Prince had made their decision about allowing their visit. In the meantime, the party decided to visit Vitris. They were directed via signal lights to land the Javelin and approach the city on foot, where a number of guards would let them in. To their initial alarm, the guards appeared to be creatures of the Flesh, but when the guard speaking to them opened the suit to talk face-to-face, it became clear that they were rather large organic chassis. The guard explained that Vitris had recently taken these suits out of testing and, in fact, the open council meeting being held presently would address their use.
+
+Having no planned destinations in the city, the party decided to attend the meeting. Even the short walk to the Spire of Policy and Council made it clear that Vitris was quite an unusual place. Its sprawl was almost entirely vertical, in the form of tall freestanding glass towers, and many of the people had prosthetics or enhancements made of Flesh encased in glass.
+
+The debate at the council meeting told the party that the use of Flesh at all was not being contested but rather the continued use of the Fleshsuits. Not long ago, one was found wandering around without a pilot which resulted in at least one injury. Things were not at the point where there was mass opposition to the use of the suits, however, and it was obvious that the majority wanted to enforce stricter precautions.
+
+Once the meeting was over, the party headed to the Spire of Innovation to see if they could learn more about Vitris’ work with the Flesh. A tour guide was happy to show them around and explain the basics. Vitris had broken away from the control of the Distant Prince - under whom they were a vassal state - and, only a year after the incursion of the Flesh, began to study it. This was initially with the goal of containing it but many other applications, such as prosthesis, were developed too. Their major success was the use of glass from the Obsidian Desert to contain the Flesh. This aligned with what the party knew about the Ice, at least in theory, as both were crystalline structures.
+
+The designer of the Fleshsuits was a man named Yahg Glassmith and he was willing to meet with the party when they asked. He explained that the Fleshsuits were little more than a means of harnessing the observation that Flesh, disconnected from the whole, tended to ambulate by itself. The problem suit, which he was working on at the moment, was likely just defective in some way, as they have had no major issues in their dealings with the Flesh.
+
+While the party was absorbing this information the suit lunged at Scrimblo, seemingly attracted to the Flesh within him. It succeeded in encasing Scrimblo inside it but the party destroyed it before it could do anyhing else to him. Yahg was fascinated by this behaviour, since he had only seen it react like that to Flesh connected to the greater incursion. Scrimblo was reluctant to explain his circumstance but eventually relented.
+
+Yahg immediately asked if he would consent to a study, which Scrimblo refused, but he followed up by offering to see if the glass they used in Vitris might help in containing the Flesh bound to his soul. He quickly demonstrated the principle using a glass needle. It did not completely prevent Scrimblo from using his abilities but it did slow down the signal along his nervous system - a good initial sign. Since he was unlikely to find someone so positively disposed to his condition again, Scrimblo agreed to let Yahg take a further look. He would need a few days to prepare so the party decided to spend some time in the city.
+
+Eva and Eve took the opportunity to travel in cloud form to the Meteor Forge, which one of the guards indicated could be found directly east of Vitris. Over the course of the twelve hour-long journey, they spotted another of the locations AIDA had glimpsed when she scried on the Flesh. A twisted mountain of Flesh rose to the south of the Hell’s Reach mountains and west of Aetra. It would not be wise to approach it without the rest of the group, but it was good to know where it was.
+
+The Meteor Forge was a huge hammer that emmanated a strange purple force with every strike and was still operating even at the late hour that Eva and Eve arrived. Bemused by their presence, one of the operators said that they could speak with the chief engineer in the morning if they wanted to know more about the forge. She was, indeed, willing to oblige the next day. The Meteor Forge had been constructed by the fire giants as a means of creating a path to the portal to the Plane of Fire. Travel over land was dangerous for more than a handful of people due to the Flesh but the giants had learned that the resonance reaction of meteor steel was able to destroy Flesh in a small radius around the impact site. Using stakes of meteor steel and the forge, they could carve a Flesh-free path across the disc. It would take several more months before the stakes were ready and then they could begin their journey.
+
+The breastplate that had indicated the existence of the forge to the party in the first place was likely made from fragments picked up by people in the area and used in place of mundane steel. Eva was fascinated by the scope of the project but, since there was no way for the party to offer much help, she and Eve would have to settle for taking only the knowledge back to the others in Vitris.
+
+Next
+[Session 21](Recaps/Auril%20Adventures/Campaign%203%20-%20A%20Wasteland%20of%20Flesh/Session%2021.md)

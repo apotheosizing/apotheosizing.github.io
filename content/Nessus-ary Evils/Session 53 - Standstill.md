@@ -1,0 +1,46 @@
+---
+date: 2023-03-22
+tags:
+  - recap
+  - recap/ne
+---
+# Session 53
+
+Now that no pressing business was occupying their time, the party decided to take care of a number of personal tasks. Nox, in the guise of a bard with the nom de plume Canary, took to the newly unfettered streets of the city of Dis to sing the praises of the great hero who had ended Titivilus' tyranny - himself, of course. His performance was certainly... unique and made a impression on the devils passing by.
+
+Mircea, meanwhile, had found himself stymied in his investigation of Karaiel for too long. Aside from the library of Mephistar, the greatest repository of knowledge to which he had access was the housed in the Fortress of Memories. Apollo's absence meant that contacting Daaé was a more complicated matter than usual but by calling in a favour with Virgil he obtained a scroll of sending. He asked Daaé to make an appeal on his behalf, which they agreed to do.
+
+A few days later, a portal to the Shadowfel opened in Mircea's path. On the other side, he made his way to Daaé's home, expecting that he could prevail upon them for access to one of the libraries. To his surprise, it was Nymil who welcomed him in. He explained, with some obvious melancholy, that Daaé was being kept very busy by the demands of the Raven Queen but that he was happy to assist a friend of his spouse.
+
+As Mircea described what he was looking for, Nymil admitted that Mircea was unlikely to find much of Karaiel in the library under his purview, or indeed any of the libraries in the Shadowfel. The followers of the Raven Queen did all in their power to preserve the memories of the dead in all their forms but Karaiel was a being so ancient that there was little to be found of them even in the most antique memories.
+
+Accepting this, Mircea instead turned his questioning to the another subject that had loomed large in his thoughts: Şenkă. It seemed Titivilus had recent contact with the seirim and thus perhaps the archives of the Fortress would hold something of use to Mircea, as Titivilus now numbered among the ranks of the deceased.
+
+Although under ordinary circumstances access to the memories of a being so rarely brought to the Shadowfel as a devil's would be impossible to obtain, Nymil had a suggestion. His death was recent enough that Mircea would likely be able to take a look at them prior to the chronicler getting her hands on them. There was no love lost between Nymil and the Raven Queen's head chronicler so he was willing to aid Mircea in the venture.
+
+Thanks to Nymil's timely distraction, Mircea was able to enter one of the outlying domes of the Fortress and search for Titivilus' memories. He was able to locate them and determine that Titivilus' involvement in the fall of Avernus was primarily in not preventing it from coming to pass. This scheme appeared to be orchestrated entirely by Harut, if what Şenkă said to Titivilus was to be believed. Mircea, knowing the seirim better, doubted that it had no stake in the matter. In fact, he theorized that the seirim intended to take control of Zariel as it once had him.
+
+Back at the Solonnasar residence, Mircea asked if Nymil had any suggestions about how he might be able to contact Karaiel. Nymil pointed out that, as a celestial, a prayer might be most appropriate. Mircea was surprised by this as Karaiel was certainly fallen from the service of their god but Nymil explained that angels were fundamentally unable to be entirely severed from the Law of the god that formed them. It was that principle that prevented gods from destroying fallen angels entirely despite how dangerous they were.
+
+Figuring it was at least worth trying, Mircea prayed to Karaiel, seeking their guidance in forming his plan against the gods. Karaiel acknowledged their unity of purpose and promised that they would aid him if he proved capable of reaching them in a distant place known as Asterism.
+
+When Mircea returned, the party decided that it was time to deliver Titivilus' thwarted ambition to Lohengrin in Cania. Traveling there through the Bureau of Transportation was mercifully simple in contrast to many of their dealings of late. Mephistar was glad to receive them and they were ushered into the gardens to meet with Lohengrin. They were in the company of Faustus when the party arrived, though he excused himself when they approached Lohengrin to inform them of their success.
+
+Rather than the enthusiasm the adventurers were expecting, Lohengrin was at first hesitant to commit to returning to Stygia so soon and then, when pushed, adamant that they had no intention of returning to Styiga in the short term. Mircea appealed to their sense of duty and Nox to the fact that it was unwise to frivolously delay Glasya's plans when the alliance they had entered into was barely formed but the conversation devolved completely and Lohengrin stalked off. The party was at a loss as to how they might convince Lohengrin so they made to speak with Faustus, who had been nothing but helpful. One might imagine then their surprise to find him uninterested in dissuading Lohengrin from staying.
+
+Cania was not about to give up the chance to advance its own ends just to leap at Malbolge's every command; Lohengrin was uniquely poised to fall under Faustus' influence at the moment and a weakened Stygia would be to the benefit of Cania when the order of the planes began to shift under Glasya. Knowing that they would need to formulate some plan of action but too bewildered and frustrated to do so yet, the party took some time to look into the magic that Lohengrin would have been performing to rejuvenate Stygia in the event they would have to brute-force the matter themselves. Nox was lucky in his research to learn that although the location - the Chapel of Half Light - and the depth of connection to Levistus represented by Lohengrin's pact were crucial, there was a possibility that they could find someone else suitable to perform the ritual if absolutely necessary.
+
+A plane away, Apollo was standing in the office of the Warden of Carceri. The Warden explained that while the attempted murder charges levied against Agares were not serious enough to be heard in court, given that Apollo was not a resident of the Nine Hells nor bound to them by any publicly-recorded contract, but the attempted theft of Dragon's Breath from its appointed wielder was. In fact, some evidence suggested that Agares had either tried or succeeded in doing so once before. Apollo, recalling Maia Abbas, requested the aid of Carceri in acquiring a full understanding of the situation. The Warden reluctantly assigned him a marut and sent him on his way.
+
+The few biographies Apollo had found of Maia stated that he had lived and died in the quaint waterside town of Tindalsea. Thus, he asked the marut to bring him to the material plane to begin his investigation. There he met the last living relative of Maia, an elderly woman named Cecily who was descended from a cousin of the great hero.
+
+She knew little aside from what was recorded in the historical record though she could tell Apollo a couple details of interest. At the conclusion of his tale he had returned to Tindalsea but his grave was an empty marker - he had not been buried nor indeed confirmed as dead. One day, he simply got up from his favourite chair and left, taking only his sword with him. He had left behind the Sixth Chalice he had been famed for possessing and she was even able to show it to Apollo. Much like Calanthir's chalice, it was an unassuming sight by Apollo knew from its magical aura that it held a deep power.
+
+With the chalice in hand and access to greater magic than he had ever been able to cast before, he was able to divine the function of not only the Sixth Chalice but its siblings. Assembling the chalices allowed the opening of a path to a place known as the Fane of the High Gods. Apollo had heard of no such place and further magic revealed nothing to him of its nature. Deciding that it was a puzzle for later, Apollo thanked Cecily and asked if there was anything else she remembered that might help him. There was one last oddity about Maia Abbas' disappearance: for weeks after he left, people in Tindalsea saw his reflection in every mirror rather than their own.
+
+Being his only solid lead, Apollo sought out a mirror in Cecily's home and, though it had been decades since the last similar such incident, found himself looking at the face of a complete stranger in the mirror. Though he was sure nothing would come of it, he attempted to reach Maia with magic. To his shock, the message must have reached someone, as he heard his own words echoed back at him.
+
+Apollo followed a few more dead ends before evening began to set in. Rather than seek out an inn, he asked Cecily for permission to stay in the house for the night and she was more than willing to accommodate him. On the off-chance that it might work as his sending had, Apollo used a spell to enter the dreams of Maia Abbas, finding himself in a strangely familiar place he had never seen before...
+
+Next
+[[Session 54 - Gleam and Gloam]]
