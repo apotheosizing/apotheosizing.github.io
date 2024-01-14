@@ -36,9 +36,9 @@ Once they had familiarized themselves with the hamlet, the party settled into th
 
 Morning was turning to afternoon when the party returned to their lodgings to offer to retrieve Oswald and Victor's missing friends from the ruins. The caretaker advised the party that a necromancer and a man known as the Prophet had been reported to lurk in the ruins. They were unlikely to encounter them on a short trip but he warned them nonetheless that these individuals were not to be trifled with.
 
-**RUINS I**
->*I always hated the idea of ruins. Old stones that once housed gatherings of now-faceless people gone cold. Perhaps worse is the knowledge that one day our own homes will fall to ruin and mean nothing to those who look upon them. Ruins are built upon ruins, unendingly...*
->- Journal of an unknown inheritor
+> [!quote] RUINS I
+> *I always hated the idea of ruins. Old stones that once housed gatherings of now-faceless people gone cold. Perhaps worse is the knowledge that one day our own homes will fall to ruin and mean nothing to those who look upon them. Ruins are built upon ruins, unendingly...*
+> \- Journal of an unknown inheritor
 
 A sprawling labyrinth sat beneath the ruins that dotted the outskirts of the hamlet. Within the labyrinth, the party headed to the north to find a long hallway filled with niches that ran down its length. As the party entered the hallway, skeletal figures emerged from the niches to attack them. Despite their greater numbers, the skeletons had grown brittle over the years and the party was able to fend them off.
 
