@@ -27,3 +27,4 @@ The door of the tomb was not locked. Within they found stale air and clean, dila
 In the night, Angel had a brief conversation with Acererak, who had entered the tomb somehow without the use of its only door. She thanked the lich for allowing them to stay and Acererak reminded her not to take indifference for kindness. Still, nothing troubled them that night and the party woke refreshed and ready to make the rest of the journey to Annar Vult.
 
 Next
+[[Recaps/Against Entropy/Session 10 - The Valley of the Shadow of Death|Session 10 - The Valley of the Shadow of Death]]
