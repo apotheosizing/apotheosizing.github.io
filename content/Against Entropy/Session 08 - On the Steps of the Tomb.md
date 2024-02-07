@@ -31,4 +31,4 @@ Pierre, who had taken up a position near the both of them, noticed this surprisi
 Soon enough through sheer perseverance only the dregs of the army of seirim remained and the party turned their efforts to destroying the two commanders…
 
 Next
-[[Recaps/Against Entropy/Session 09 - The Eternal|Session 09 - The Eternal]]
+[[Against Entropy/Session 09 - The Eternal|Session 09 - The Eternal]]
