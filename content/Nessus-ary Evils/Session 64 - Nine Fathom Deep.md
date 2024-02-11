@@ -27,3 +27,4 @@ These members of Zariel's invading force held the line. They fought with the str
 Jezebel too came a hair's breadth from death at the hands of the angels but thanks to Abel's assistance and Mircea's healing they were able to avoid another casualty. When the last of the angels was destroyed the party moved to engage Harut, the embodiment of the promise between a god and its angel which would destabilize the Nine Hells forever with its destruction.
 
 Next
+[[Session 65 - Breaker of Chains]]

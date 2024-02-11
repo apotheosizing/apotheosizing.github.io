@@ -1,0 +1,31 @@
+---
+date: "2024-02-07"
+tags:
+  - recap
+  - recap/ne
+---
+# Session 65
+
+In days far beyond the reach of mortal memory, when the angels of Overheaven marched on the Nine Hells, Harut had fought at the left hand of Zariel themself; when the last remnants of its body and mind fought for its preservation the party learned why. They may have proved its equal were they fresh to the battlefield but they had been worn down by the guardian angels that had defended the seirim. Thus they fought from a tenuous position. Each strike threatened to bring death.
+
+Nevertheless, every member of the eight of them stood when Apollo cast the simple evocation spell that felled Harut. Nox and Mircea used the last of their healing magic to patch up what wounds they could while Abel and Marica collected small jars of the creature's ichor. Though a sense of exhilarated accomplishment welled up in the party its was accompanied by an unshakeable conviction that they had made a terrible mistake.
+
+From everywhere and nowhere the voice of the Liege of the Nine addressed them, almost pityingly: *Oh, you fools. What have you done?* Then, reality shook them off its back. When next they were conscious the party found themselves awakening in a guest room, missing Abel and Eludecia from their number put having Apollodorus' body despite it having been left to the stewardship of the servants at Quintestra.
+
+A single window served as their outlook onto their surroundings. Outside they glimpsed the approach to Glasya's fortress of Proscenium. There was no indication, however, whether they remained in their past or if they had been returned to the present time. Being nominally in a safe location, the party took the time to take stock of themselves and recuperate. While they did so, Nox mused aloud that they had come so close to total annihilation. Artemy wryly replied that he *had* died in the conflict. Nox, who had not realized the severity of his injuries expressed confusion, as they had not been able to call Polly's soul back to her flesh. Mircea reluctantly admitted that he had needed to call upon higher powers. Ever the pragmatist, Jezebel asked him what it had cost and Mircea said that he was not certain that it would be so straightforward an exchange, but there would be consequences.
+
+Apollo, picking up on their train of thought, asked what they might do about the consequences they as a group had engendered. Calantir suggested they throw themselves on Glasya's mercy. As the aspirant to the godhood of the Nine Hells closest to accomplishing their goals, only they could offer any protection from the wrath of its ruler.
+
+Once they were in a more presentable state, the party made for the throne room to speak with Glasya. She was awaiting them and it was she who spoke first, saying that perhaps she had kept the party on too loose a leash. She did not appreciate having her hand forced by their actions on Avernus. Nox claimed that they acted only in her interest and Mircea put in that their other choice was to allow the destruction of Avernus by the seirim. Glasya was not especially convinced by either of these arguments but she conceded that there was no point litigating the party's decision. It had been made.
+
+Glasya explained that in the aftermath of Harut's destruction Zariel had publicly declared themself against Glasya and their cause, giving the Liege of the Nine the potent resource of the planes' only standing army in the conflict to come. The archdux foresaw this being a potential problem after they had taken their seat in Nessus, as Zariel had always been indifferent to the particulars of the governance of the planes. If they were no longer so, a civil war could follow on the heels of the usurpation.
+
+These were concerns for victorious conspirators, however, so the audience turned to other matters. Nox sought clarification on when, exactly, they were. Glasya said that she had personally returned them to the present to spare them from the Liege of the Nine. She had also taken the liberty of relieving them of Eludecia, whom she made no effort to restore to the party's possession. Apollo then asked about Polly. Glasya addressed Artemy when she asked if they desired her restoration. Of course, her brother said that he did, though truly he could offer no justification except that he missed her dearly. Mircea suggested that now was not the time to keep useful tools in reserve. After a moment of consideration Glasya relented. She would return Apollodorus for the time that she was required to subvert the Liege of the Nine and not a second longer.
+
+Given their state of exhaustion Glasya dismissed them to enjoy the last moment of peace any of them would see while the Liege of the Nine still reigned over the Hells. Back in the guest rooms the party immediately went to sleep, with the exception of Mircea and Nox. Quietly, Mircea asked Nox for a favour: he wanted to return to Avernus and hoped Nox might join him. He wanted to renounce his pact with Zariel, not because they now stood in opposition to her but because he could no longer in good conscience uphold the tenants of an oath he found he did not believe in. He would follow his word to the end but it must be ended. Nox was happy to stay Zariel's hand from smiting Mircea - he was a dux, after all.
+
+A few hours later, when Mircea was occupied, Nox woke Artemy to ask a favour of his own. He explained that he had long been seeking something at the heart of himself, a spark of divinity he had always known was there. Artemy began to dismiss this as Nox's usual arrogant self-conception but Nox forestalled him. A god now sought their destruction and he had become certain that only a god could save them. Only a god born from morality could protect mortals. He could even save Apollodorus.
+
+There was a long, hard moment of silence while Artemy considered Nox. He was surprised to find that he believed Nox's sincerity. This was not just a power play, he did truly want to help the people who had become his friends. On that fateful night, Artemy pledged to to whatever might be required to help Nox accomplish the impossible feat of apotheosis and, though he soon would come to regret that choice of words, he was bound to carry it out.
+
+Next
