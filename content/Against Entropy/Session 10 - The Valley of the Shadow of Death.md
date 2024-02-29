@@ -23,3 +23,4 @@ Nevertheless, when someone called from the other end of the valley to offer thei
 While Temperance began the work of healing the party the leader of the other group, a dragonborn man called Ciar introduced himself and his companions, Bruno and Nyiko. He was pleasant and jovial with the party, answering the questions put to him. He and his group were investigating rumours of the return of the White Company on behalf of an unnamed third-party. Their route had taken them along a different path up to the point of the valley which served as a chokepoint for entry to Annar Vult. Given the poor health and low spirits of the party Ciar suggested they take a breather and trade what information they had gleaned. Seeing no reason to object, the party settled down for a short rest.
 
 Next
+[[Session 11 - Gods in Glass]]
